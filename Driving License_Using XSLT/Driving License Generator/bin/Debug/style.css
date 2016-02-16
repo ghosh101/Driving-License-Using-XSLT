@@ -1,0 +1,199 @@
+.body{
+	background: #e5e5e5;  font-family:"sans-serif";
+    
+}
+
+.bodyStart{
+    display: inline-block;
+    float: left;
+    margin: 1px;
+	height: 370px;
+	width: 650px;
+	background: white;
+	box-shadow: 1px 4px 4px #888;
+    border-radius: 14px;
+    background-image: url("center.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.logo{
+	height: 60px;
+	width: 50px;
+	margin: 10px;
+	display: inline-block;
+	vertical-align: top;
+    margin-left: 15px;
+    margin-right: 5px;
+	display: inline-block;
+	margin-bottom: 0px;
+}
+
+.header{
+	background: red;
+	margin: 5px;
+	height: 32px;
+	width: 480px;
+	text-align: center;
+	padding: 3px;
+	color: white;
+	display: inline-block;
+	margin-bottom: 0px;
+	border-style: solid;
+    border-color: black;
+	border-width: 1px;
+}
+
+.toptext1{
+    width: 100%;
+    font-size: smaller;
+}
+
+.toptext2{
+    width: auto;
+    font-size: large;
+}
+
+.Centre{
+	height: 60px;
+	width: 45px;
+	margin: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+	vertical-align: top;
+    margin-left: 5px;
+    margin-right: 5px;
+    float: none;
+	display: inline-block;
+}
+
+.liststyle{
+    font-size: 12px;
+    font-style: italic;
+    color: black;
+	list-style: none;
+	display: inline-block;
+	padding-top: 0px;
+	padding-left: 0px;
+	float: left;
+    margin-top: auto;
+}
+
+.issuedate{
+    color: black;
+    font-style: italic;
+    font-size: 12px;
+	display: inline-block;
+	margin-top: auto;
+	margin-left: 110px;
+	vertical-align: top;
+}
+
+.bold{
+    font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+    color: black;
+}
+
+.bolditalics{
+    font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.row1 {
+    display: inline-block;
+    margin-top: auto;
+    margin-left: 406px;
+    padding-bottom: 0px;
+}
+
+.liststyle1{
+    list-style: none;
+    color: black;
+	display: inline-grid;
+	padding-left: 0px;
+    padding: 0px;
+	float:  right;
+    margin-top: auto;
+    margin-left: 60px;
+}
+
+.row2{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.chip{
+	height: 70px;
+	width: 80px;
+	margin: 30px 0px 20px 60px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.profilephoto{
+	height: 110px;
+    width: 110px;
+	float: right;
+	margin-right: 30px;
+	margin: 10px;
+	display: inline-block;
+	vertical-align: top;
+    margin-right: 25px;
+	margin-top: 3px;
+	
+}
+
+.photo{
+    height: 37px;
+	width: 38px;
+	margin: 0px 0px 0px 0px;
+	display: inline-block;
+	vertical-align: top;
+    float: right;
+    
+}
+
+.signature{
+    height: 37px;
+	width: 38px;
+    float: right;
+    margin-right: 70px;
+    display: inline-block;
+}
+
+.info{
+	list-style: none;
+	font-size: 12px;
+	display: inline-block;
+	font-style: italic;
+	margin-bottom: 0px;
+    margin-right: 8px;
+    margin-top:0px;
+}
+
+.sign{
+    position: fixed;
+    font-size: 12px;
+    font-style: italic;
+    color: black;
+	display: inline-block;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin-top: auto;
+    list-style: none;
+    margin-left: 274px;
+	margin-bottom: 0px;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+
+.row3{
+	font-size: 12px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
